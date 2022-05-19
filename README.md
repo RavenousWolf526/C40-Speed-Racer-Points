@@ -1,1 +1,2 @@
-# C40-Speed-Racer-Points
+# C40RV_SpeedRacer_StudentActivity
+Student Activity
